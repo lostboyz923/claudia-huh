@@ -1,0 +1,28 @@
+{
+  "name": "claudia-huh",
+  "version": "0.0.1",
+  "description": "chat-bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostboyz923/claudia-huh.git"
+  },
+  "keywords": [
+    "hell",
+    "love",
+    "huh"
+  ],
+  "author": "MIller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lostboyz923/claudia-huh/issues"
+  },
+  "homepage": "https://github.com/lostboyz923/claudia-huh#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^4.5.0",
+    "huh": "^2.0.1"
+  }
+}
